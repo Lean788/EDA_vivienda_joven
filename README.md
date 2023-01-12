@@ -1,6 +1,6 @@
 # Análisis Exploratorio de Datos (EDA) - Data Science
 
-![img](src/../assets/Fondo.png)
+![img](src/../src/assets/Fondo.png)
 
 ## _Acceso a la vivienda para los jovenes en 2023_
 
